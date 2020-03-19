@@ -3,7 +3,7 @@ Full Stack Open ReadMe
 Objectives Part 0:
 [X] Complete GitHub Tutorial
 [X] a. General info
-[ ] b. Fundamentals of Web apps
+[X] b. Fundamentals of Web apps
 [ ] Exercise 0.1
 [ ] Exercise 0.2
 [ ] Exercise 0.3

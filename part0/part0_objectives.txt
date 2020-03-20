@@ -6,6 +6,6 @@ Full Stack Open Objectives Part 0:
 [X] Exercise 0.1
 [X] Exercise 0.2
 [X] Exercise 0.3
-[ ] Exercise 0.4
-[ ] Exercise 0.5
-[ ] Exercise 0.6
+[X] Exercise 0.4
+[X] Exercise 0.5
+[X] Exercise 0.6

@@ -1,0 +1,11 @@
+Full Stack Open Objectives Part 0:
+-------------------------------------------------------------------------------
+[X] Complete GitHub Tutorial
+[X] a. General info
+[X] b. Fundamentals of Web apps
+[X] Exercise 0.1
+[X] Exercise 0.2
+[X] Exercise 0.3
+[X] Exercise 0.4
+[X] Exercise 0.5
+[X] Exercise 0.6

@@ -1,12 +1,8 @@
 Full Stack Open ReadMe
 -------------------------------------------------------------------------------------------------------------------------
-Objectives Part 0:
-[X] Complete GitHub Tutorial
-[X] a. General info
-[X] b. Fundamentals of Web apps
-[ ] Exercise 0.1
-[ ] Exercise 0.2
-[ ] Exercise 0.3
-[ ] Exercise 0.4
-[ ] Exercise 0.5
-[ ] Exercise 0.6
+https://fullstackopen.com/en/about
+
+Full Stack Open serves as an intorduction to modern web application development
+with JavaScript. The main focus is on building single page applications with 
+ReactJS that use REST APIs built with Node.js. The course also contains a section 
+on GraphQL, a modern alternative to REST APIs.

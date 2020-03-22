@@ -1,4 +1,4 @@
-Full Stack Open Objectives Part 0:
+Full Stack Open Part 0 Objectives:
 -------------------------------------------------------------------------------
 [X] Complete GitHub Tutorial
 [X] a. General info
